@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\bin\Debug\net10.0\AgendaCSharp.exe
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\bin\Debug\net10.0\AgendaCSharp.deps.json
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\bin\Debug\net10.0\AgendaCSharp.runtimeconfig.json
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\bin\Debug\net10.0\AgendaCSharp.dll
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\bin\Debug\net10.0\AgendaCSharp.pdb
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.dll
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\refint\AgendaCSharp.dll
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.pdb
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\AgendaCSharp.genruntimeconfig.cache
+C:\Users\Acer\source\repos\AgendaCSharp\AgendaCSharp\obj\Debug\net10.0\ref\AgendaCSharp.dll
